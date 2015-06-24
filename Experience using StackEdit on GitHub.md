@@ -4,8 +4,9 @@ Due to the limitation that it can only open
 
 # Feel
 
-# Conflict Handling
-I creates a this line in the GitHub Editor
+# Conflict Handling 2
+Another line, this one created in stackedit.
+
 
 
 # Limitations
