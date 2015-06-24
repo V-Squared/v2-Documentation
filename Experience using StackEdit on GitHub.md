@@ -4,6 +4,8 @@ Due to the limitation that it can only open
 
 # Feel
 
+# Conflict Handling
+I creates a this line in the GitHub Editor
 
 
 # Limitations
