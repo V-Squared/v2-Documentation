@@ -1,5 +1,6 @@
 ![](http://www.ghislainproulx.net/content/images/2014/GitHub101.jpg)
 
+Testing the change
 
 # Motivation
 ## We want:
